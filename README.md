@@ -1,0 +1,4 @@
+trojuhelnik
+===========
+
+Výpočty veličin trojúhelníku
